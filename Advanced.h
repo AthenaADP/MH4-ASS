@@ -120,7 +120,7 @@ namespace MH4ASS {
 		{
 			int max_width = 0;
 			for each( ListViewItem^ item in lv->Items )
-				max_width = std::max( max_width, TextRenderer::MeasureText( item->Text, item->Font ).Width );
+				max_width = Math::Max( max_width, TextRenderer::MeasureText( item->Text, item->Font ).Width );
 			lv->Columns[ 0 ]->Width = max_width + 20;
 		}
 

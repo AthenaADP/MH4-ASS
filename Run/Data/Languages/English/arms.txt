@@ -1,0 +1,355 @@
+Brave's Gloves
+Leather Gloves
+Chainmail Gloves
+Hunter's Vambraces
+Hunter's Guards
+Bone Vambraces
+Bone Guards
+Alloy Vambraces
+Alloy Guards
+Rhenoplos Vambraces
+Rhenoplos Guards
+Bnahabra Gloves
+Bnahabra Cuffs
+Jaggi Vambraces
+Jaggi Guards
+Kunchuu Vambraces
+Kunchuu Guards
+Genprey Vambraces
+Genprey Guards
+Velociprey Vambraces
+Velociprey Guards
+Arzuros Vambraces
+Arzuros Guards
+High-Metal Vambraces
+High-Metal Guards
+Battle Vambraces
+Battle Guards
+Kecha Vambraces
+Kecha Guards
+Gypceros Vambraces
+Gypceros Guards
+Conga Vambraces
+Conga Guards
+Ludroth Vambraces
+Ludroth Guards
+Lagombi Vambraces
+Lagombi Guards
+Ioprey Vambraces
+Ioprey Guards
+Remobra Gloves
+Remobra Hands
+Tetsukabra Vambraces
+Tetsukabra Guards
+Kut-Ku Vambraces
+Kut-Ku Guards
+King Lobster Vambraces
+King Lobster Guards
+Barroth Vambraces
+Barroth Guards
+Ingot Vambraces
+Ingot Guards
+Basarios Vambraces
+Basarios Guards
+Guardian Vambraces
+Guardian Guards
+Helper Gloves
+Helper Cuffs
+Rouaga Manno
+Rouaga Brasso
+Falmer Manno
+Falmer Brasso
+Nightmare Rama
+Nightmare Asto
+Nerusukyura Vambraces
+Nerusukyura Guards
+Khezu Vambraces
+Khezu Guards
+Rathian Vambraces
+Rathian Guards
+Artian Vambraces
+Artian Guards
+Zaboazagiru Vambraces
+Zaboazagiru Guards
+Garara Vambraces
+Garara Guards
+Plesioth Vambraces
+Plesioth Guards
+Guild Bard Vambraces
+Guild Bard Cuffs
+Scholar Gloves
+Scholar Cuffs
+Zinogre Vambraces
+Zinogre Guards
+Generu Vambraces
+Generu Guards
+Nibelsnarf Vambraces
+Nibelsnarf Guards
+Ceanataur Vambraces
+Ceanataur Guards
+Goa Vambraces
+Goa Guards
+Tigrex Vambraces
+Tigrex Guards
+Brachydios Vambraces
+Brachydios Guards
+Nargacuga Vambraces
+Nargacuga Guards
+Gravios Vambraces
+Gravios Guards
+Rathalos Vambraces
+Rathalos Guards
+Lavasioth Vambraces
+Lavasioth Guards
+Diablos Vambraces
+Diablos Guards
+Garuga Vambraces
+Garuga Guards
+Uragaan Vambraces
+Uragaan Guards
+Duramboros Vambraces
+Duramboros Guards
+Arc Vambraces
+Arc Guards
+Philia Vambraces
+Philia Guards
+Zannyo Kote
+Shinonome Kote
+Tokiwa Kote
+Yachiyo Kote
+Kirin Long Arms
+Kirin Gloves
+Akatsuki Kote
+Akebono Kote
+Rin Kote
+Tsuya Kote
+Blue Star Vambraces
+Blue Star Cuffs
+Brave's Vambraces S
+Brave's Guards S
+Leather Vambraces S
+Leather Guards S
+Chainmail Vambraces S
+Chainmail Guards S
+Hunter's Vambraces S
+Hunter's Guards S
+Bone Vambraces S
+Bone Guards S
+Alloy Vambraces S
+Alloy Guards S
+Kunchuu Vambraces S
+Kunchuu Guards S
+Rhenoplos Vambraces S
+Rhenoplos Guards S
+Bnahabra Gloves S
+Bnahabra Cuffs S
+Jaggi Vambraces S
+Jaggi Guards S
+Genprey Vambraces S
+Genprey Guards S
+Volvidon Vambraces
+Volvidon Guards
+Qurupeco Vambraces
+Qurupeco Guards
+Conga Vambraces S
+Conga Guards S
+Conga Vambraces U
+Conga Guards U
+Velociprey Vambraces S
+Velociprey Guards S
+Cephalos Vambraces
+Cephalos Guards
+Hermitaur Vambraces
+Hermitaur Guards
+Remobra Gloves S
+Remobra Hands S
+Ioprey Gloves
+Ioprey Hands
+Kecha Vambraces S
+Kecha Guards S
+Kut-Ku Vambraces S
+Kut-Ku Guards S
+Kut-Ku Vambraces U
+Kut-Ku Guards U
+Obituary Manno
+Obituary Brasso
+Butterfly Manno
+Butterfly Brasso
+Ioprey Vambraces S
+Ioprey Guards S
+Dober Vambraces
+Dober Guards
+Lagombi Vambraces S
+Lagombi Guards S
+Hawk Vambraces
+Hawk Guards
+Ecole Vambraces
+Ecole Guards
+Gypceros Vambraces S
+Gypceros Guards S
+Gypceros Vambraces U
+Gypceros Guards U
+Volvidon Vambraces
+Volvidon Guards
+Tetsukabra Vambraces S
+Tetsukabra Guards S
+Nerusukyura Vambraces S
+Nerusukyura Guards S
+Khezu Vambraces S
+Khezu Guards S
+Khezu Vambraces U
+Khezu Guards U
+Rathian Vambraces S
+Rathian Guards S
+Rathian Heart Vambraces
+Rathian Heart Guards
+Golden Luna Vambraces
+Golden Luna Guards
+Rathian EX Vambraces
+Rathian EX Guards
+Basarios Vambraces S
+Basarios Guards S
+Basarios Vambraces U
+Basarios Guards U
+Artian Vambraces S
+Artian Guards S
+Zinogre Vambraces S
+Zinogre Guards S
+Zinogre Vambraces U
+Zinogre Guards U
+Goa Vambraces S
+Goa Guards S
+Gobul Vambraces
+Gobul Guards
+Guild Knight Gloves
+Guild Knight Cuffs
+Maid Gloves
+Maid Cuffs
+Ranger's Gauntlets
+Archer's Gauntlets
+Generu Vambraces S
+Generu Guards S
+Zaboazagiru Vambraces S
+Zaboazagiru Guards S
+Garara Vambraces S
+Garara Guards S
+Tigrex Vambraces S
+Tigrex Guards S
+Tigrex Vambraces U
+Tigrex Guards U
+X-Zero Vambraces
+X-Zero Guards
+Tigrex EX Vambraces
+Tigrex EX Guards
+Blango Vambraces
+Blango Guards
+Black Belt Vambraces
+Black Belt Guards
+Rathalos Vambraces S
+Rathalos Guards S
+Rathalos Soul Vambraces
+Rathalos Soul Guards
+Silver Sol Vambraces
+Silver Sol Guards
+Rathalos EX Vambraces
+Rathalos EX Guards
+Gravios Vambraces S
+Gravios Guards S
+Gravios Vambraces U
+Gravios Guards U
+Barioth Vambraces
+Barioth Guards
+Brachydios Vambraces S
+Brachydios Guards S
+Agnaktor Vambraces
+Agnaktor Guards
+Garuga Vambraces S
+Garuga Guards S
+Lagiacrus Vambraces
+Lagiacrus Guards
+Kirin Long Arms S
+Kirin Gloves S
+Kirin Vambraces U
+Kirin Gloves U
+Yukumo Kote (Sky)
+Yukumo Kote (Earth)
+Sailor Gloves
+Sailor Cuffs
+Vangis Vambraces
+Vangis Guards
+Greed Vambraces
+Greed Guards
+Zannyo Kote Ha
+Shinonome Kote Ha
+Tokiwa Kote Ha
+Yachiyo Kote Ha
+Yamato Kote
+Mutsu Kote
+Hinata Kote
+Amagi Kote
+Arc Vambraces S
+Arc Guards S
+Philia Vambraces S
+Philia Guards S
+Golden Kote
+Puppet Master Kote
+Rapture Kote
+Heartbeat Kote
+Dark Akantor Claw
+Dark Akantor Gauntlet
+Dark Ukanlos Claw
+Dark Ukanlos Gauntlet
+Kaiser Vambraces
+Kaiser Guards
+Kaiser EX Vambraces
+Kaiser EX Guards
+Empress Vambraces
+Empress Guards
+Kushala Grip
+Kushala Embrace
+Kushala EX Grip
+Kushala EX Embrace
+Demon Hands
+Carnage Hands
+Rebellion Vambraces
+Riot Guards
+Mizuha Sleeves
+Extravagant Sleeves
+Shinobi Kote (Sky)
+Shinobi Kote (Earth)
+Kongo Kote
+Fudou Kote
+Dragon Claw
+Dragon Fist
+Helios Vambraces
+Helios Guards
+Selene Vambraces
+Selene Guards
+Escadora Arms
+Escadora Arma
+Chakra Bracelet
+Grandmaster's Bracelet
+Kirin EX Vambraces U
+Kirin EX Gloves U
+Captain Gloves J
+Captain Cuffs J
+Ingot EX Vambraces
+Ingot EX Guards
+Legend Gloves J
+Legend Cuffs J
+UNIQLO Watch
+UNIQLO Clock
+Star Rook Vambraces
+Star Rook Guards
+Zodias Vambraces
+Zodias Guards
+Hero's Vambraces
+Hero's Gloves
+Artian EX Vambraces
+Artian EX Guards
+Goa EX Vambraces
+Goa EX Guards
+Rebellion EX Vambraces
+Riot EX Guards
+Miralis Claw
+Miralis Fist

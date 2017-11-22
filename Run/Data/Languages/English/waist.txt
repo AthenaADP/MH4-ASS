@@ -1,0 +1,351 @@
+﻿Brave's Belt
+Leather Belt
+Chainmail Belt
+Loc Lac Coil
+Hunter's Faulds
+Hunter's Coat
+Bone Faulds
+Bone Coat
+Alloy Coil
+Alloy Coat
+Rhenoplos Coil
+Rhenoplos Coat
+Bnahabra Coil
+Bnahabra Coat
+Jaggi Faulds
+Jaggi Coat
+Genprey Faulds
+Genprey Coat
+Velociprey Faulds
+Velociprey Coat
+Arzuros Faulds
+Arzuros Coat
+High-Metal Faulds
+High-Metal Coat
+Battle Faulds
+Battle Coat
+Kecha Faulds
+Kecha Coat
+Gypceros Faulds
+Gypceros Coat
+Conga Faulds
+Conga Coat
+Ludroth Faulds
+Ludroth Coat
+Lagombi Faulds
+Lagombi Coat
+Ioprey Faulds
+Ioprey Coat
+Remobra Belt
+Remobra Band
+Tetsukabra Faulds
+Tetsukabra Coat
+Kut-Ku Faulds
+Kut-Ku Coat
+King LobsterCoil
+King LobsterCoat
+Barroth Faulds
+Barroth Coat
+Ingot Coil
+Ingot Coat
+Basarios Faulds
+Basarios Coat
+Guardian Coil
+Guardian Coat
+Helper Skirt
+Helper Frill
+Rouaga Anka
+Rouaga Cocuso
+Falmer Anka
+Falmer Cocuso
+Nightmare Oha
+Nightmareブラット
+Nerusukyura Faulds
+Nerusukyura Coat
+Khezu Faulds
+Khezu Coat
+Rathian Faulds
+Rathian Coat
+Zaboazagiru Faulds
+Zaboazagiru Coat
+Garara Faulds
+Garara Coat
+Guild Bard Coil
+Guild Bard Coat
+Scholar Skirt
+Scholar Frill
+Zinogre Faulds
+Zinogre Coat
+Generu Faulds
+Generu Coat
+Nibelsnarf Faulds
+Nibelsnarf Coat
+Ceanataur Faulds
+Ceanataur Coat
+Goa Faulds
+Goa Coat
+Tigrex Faulds
+Tigrex Coat
+Brachydios Faulds
+Brachydios Coat
+Nargacuga Faulds
+Nargacuga Coat
+Gravios Faulds
+Gravios Coat
+Rathalos Faulds
+Rathalos Coat
+Lavasioth Faulds
+Lavasioth Coat
+Diablos Coil
+Diablos Coat
+Garuga Faulds
+Garuga Coat
+Uragaan Faulds
+Uragaan Coat
+Duramboros Faulds
+Duramboros Coat
+Arc Faulds
+Arc Coat
+Philia Faulds
+Philia Coat
+Zannyo Koshiate
+Shinonome Koshiate
+Tokiwa Koshiate
+Yachiyo Koshiate
+Kirin Hoop
+Kirin Shorts
+Akatsuki Koshiate
+Akebono Koshiate
+Rin Koshiate
+Tsuya Koshiate
+Light Skin Belt
+Iron Belt
+Blue Star Coil
+Blue Star Coat
+Brave's Faulds S
+Brave's Coat S
+Leather Faulds S
+Leather Coat S
+Chainmail Faulds S
+Chainmail Coat S
+Hunter's Faulds S
+Hunter's Coat S
+Bone Faulds S
+Bone Coat S
+Alloy Coil S
+Alloy Coat S
+Rhenoplos Coil S
+Rhenoplos Coat S
+Bnahabra Coil S
+Bnahabra Coat S
+Jaggi Faulds S
+Jaggi Coat S
+Genprey Faulds S
+Genprey Coat S
+Volvidon Faulds
+Volvidon Coat
+Qurupeco Coil
+Qurupeco Coat
+Conga Faulds S
+Conga Coat S
+Conga Faulds U
+Conga Coat U
+Velociprey Faulds S
+Velociprey Coat S
+Chrome Metal Coil
+Chrome Metal Coat
+Cephalos Faulds
+Cephalos Coat
+Hermitaur Faulds
+Hermitaur Coat
+Remobra Belt S
+Remobra Band S
+Kecha Faulds S
+Kecha Coat S
+Kut-Ku Faulds S
+Kut-Ku Coat S
+Kut-Ku Faulds U
+Kut-Ku Coat U
+Obituary Anka
+Obituary Cocuso
+Butterfly Anka
+Butterfly Cocuso
+Ioprey Faulds S
+Ioprey Coat S
+Dober Coil
+Dober Coat
+Lagombi Faulds S
+Lagombi Coat S
+Hawk Coil
+Hawk Coat
+Ecole Skirt
+Ecole Frill
+Gypceros Faulds S
+Gypceros Coat S
+Gypceros Faulds U
+Gypceros Coat U
+Volvidon Faulds
+Volvidon Coat
+Tetsukabra Faulds S
+Tetsukabra Coat S
+Nerusukyura Faulds S
+Nerusukyura Coat S
+Khezu Faulds S
+Khezu Coat S
+Khezu Faulds U
+Khezu Coat U
+Rathian Faulds S
+Rathian Coat S
+Rathian Heart Coil
+Rathian Heart Coat
+Golden Luna Coil
+Golden Luna Coat
+Rathian EX Faulds
+Rathian EX Coat
+Basarios Faulds S
+Basarios Coat S
+Basarios Faulds U
+Basarios Coat U
+Artian Coil S
+Artian Coat S
+Zinogre Faulds S
+Zinogre Coat S
+Zinogre Faulds U
+Zinogre Coat U
+Goa Faulds S
+Goa Coat S
+Gobul Faulds
+Gobul Coat
+Guild Knight Coil
+Guild Knight Skirt
+Maid Skirt
+Maid Frill
+Ranger's Faulds
+Archer's Faulds
+Generu Faulds S
+Generu Coat S
+Zaboazagiru Faulds S
+Zaboazagiru Coat S
+Garara Faulds S
+Garara Coat S
+Tigrex Faulds S
+Tigrex Coat S
+Tigrex Faulds U
+Tigrex Coat U
+X-Zero Coil
+X-Zero Coat
+Tigrex EX Faulds
+Tigrex EX Coat
+Blango Faulds
+Blango Coat
+Black Belt Faulds
+Black Belt Coat
+Rathalos Faulds S
+Rathalos Coat S
+Rathalos Soul Coil
+Rathalos Soul Coat
+Silver Sol Coil
+Silver Sol Coat
+Rathalos EX Faulds
+Rathalos EX Coat
+Gravios Faulds S
+Gravios Coat S
+Gravios Faulds U
+Gravios Coat U
+Barioth Faulds
+Barioth Coat
+Brachydios Faulds S
+Brachydios Coat S
+Agnaktor Faulds
+Agnaktor Coat
+Garuga Faulds S
+Garuga Coat S
+Lagiacrus Faulds
+Lagiacrus Coat
+Kirin Hoop S
+Kirin Shorts S
+Kirin Hoop U
+Kirin Shorts U
+Yukumo Obi (Sky)
+Yukumo Obi (Earth)
+Sailor Skirt
+Sailor Frill
+Vangis Coil
+Vangis Coat
+Greed Faulds
+Greed Coat
+Zannyo Koshiate Ha
+Shinonome Koshiate Ha
+Tokiwa Koshiate Ha
+Yachiyo Koshiate Ha
+Yamato Koshiate
+Mutsu Koshiate
+Hinata Koshiate
+Amagi Koshiate
+Arc Faulds S
+Arc Coat S
+Philia Faulds S
+Philia Coat S
+Golden Obi
+Puppet Master Obi
+Rapture Obi
+Heartbeat Obi
+Dark Akantor Cincture
+Dark Akantor Sash
+Dark Ukanlos Cincture
+Dark Ukanlos Sash
+Kaiser Faulds
+Kaiser Coat
+Kaiser EX Coil
+Kaiser EX Coat
+Empress Faulds
+Empress Coat
+Kushala Cocoon
+Kushala Wind Wrap
+Kushala EX Cocoon
+Kushala EX Wind Wrap
+Demon Sash
+Carnage Sash
+Rebellion Coil
+Riot Coat
+MizuhaObi
+ExtravagantObi
+Shinobi Obi (Sky)
+Shinobi Obi (Earth)
+Kongo Koshiate
+Fudou Koshiate
+Dragon Spine
+Dragon Scale
+Helios Coil
+Helios Coat
+Selene Coil
+Selene Coat
+Escadora Might
+Escadora Force
+Chakra Waistlet
+Kirin EX Hoop U
+Kirin EX Shorts U
+Captain Coil J
+Captain Skirt J
+Ingot EX Coil
+Ingot EX Coat
+Legend Coil J
+Legend Skirt J
+Bouya Belt
+Bouya Buckle
+UNIQLO Pouch
+UNIQLO Pocket
+Star Rook Coil
+Star Rook Coat
+Zodias Coil
+Zodias Coat
+Hero's Belt
+Hero's Band
+Artian EX Coil
+Artian EX Coat
+Goa EX Faulds
+Goa EX Coat
+Rebellion EX Coil
+Riot EX Coat
+Miralis Wing
+Miralis Tail

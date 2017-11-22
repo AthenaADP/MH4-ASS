@@ -1,0 +1,184 @@
+﻿Joya Firme  【１】
+Joya Rotunda  【１】
+Joya Parálisis  【１】
+Joya Parálisis  【２】
+Joya Vitalidad  【１】
+Joya Vitalidad  【２】
+Joya Antídoto  【１】
+Joya Antídoto  【２】
+Joya Bloqueo Def.  【１】
+Joya Alarma  【１】
+Joya Rastreo  【１】
+Joya Buscador  【１】
+Joya Ancla  【１】
+Joya Tectónica  【１】
+Joya Res. Calor  【１】
+Joya Res. Frío  【１】
+Joya Tapon Oido  【１】
+Joya Tapon Oido  【３】
+Joya Res. Viento  【１】
+Joya Res. Viento  【２】
+Joya de Ataque  【１】
+Joya de Ataque  【２】
+Joya de Ataque  【３】
+Joya Experto  【１】
+Joya Experto  【２】
+Joya Experto  【３】
+Joya Desarmador  【１】
+Joya Desarmador  【２】
+Joya Elemental  【１】
+Joya Elemental  【３】
+Joya Ardiente  【１】
+Joya Ardiente  【２】
+Joya Acuosa  【１】
+Joya Acuosa  【２】
+Joya Relámpago  【１】
+Joya Relámpago  【２】
+Joya Congelada  【１】
+Joya Congelada  【２】
+Joya Dragón  【１】
+Joya Dragón  【２】
+Joya Maza  【１】
+Joya Maza  【３】
+Joya Destructor  【１】
+Joya Destructor  【３】
+Joya Carga  【２】
+Joya Carga  【３】
+Joya Carga Corta  【１】
+Joya Carga Corta  【３】
+Joya Poderosa  【１】
+Joya Poderosa  【２】
+Joya KO  【１】
+Joya KO  【２】
+Joya Drenaje  【１】
+Joya Drenaje  【２】
+Joya Potencial  【１】
+Joya Potencial  【２】
+Joya Fortaleza  【１】
+Joya Fortaleza  【２】
+Joya Bombardero  【１】
+Joya Flautista  【１】
+Joya Artillera  【１】
+Joya Defensa  【１】
+Joya Defensa  【２】
+Joya Resistor  【１】
+Joya Resistor  【３】
+Joya Res. Fuego  【１】
+Joya Antifuego  【１】
+Joya Res. Agua  【１】
+Joya Antiagua  【１】
+Joya Res. Trueno  【１】
+Joya Antitrueno 【１】
+Joya Res. hielo  【１】
+Joya Antihielo  【１】
+Joya Res. Dragón  【１】
+Joya Antidragón  【１】
+Joya Protección  【１】
+Joya Asilo  【１】
+Joya de Fuerza  【１】
+Joya Recuperacion  【１】
+Joya Recuperacion  【２】
+Joya Curadora  【１】
+Joya Curadora  【２】
+Joya Evasión  【１】
+Joya Evasión  【２】
+Joya Salto  【１】
+Joya Enfundado  【１】
+Joya Enfundado  【２】
+Joya Trampero  【１】
+Joya Glotón  【１】
+Joya Glotón  【３】
+Joya Velocista  【１】
+Joya Velocista  【３】
+Joya Salud  【１】
+Joya Salud  【２】
+Joya Revitalante  【１】
+Joya Revitalante  【２】
+Joya Sin Hambre  【１】
+Joya Metabolismo  【１】
+Joya Destino  【１】
+Joya Destino  【３】
+Joya Captura  【１】
+Joya Captura  【３】
+Joya Carveador  【１】
+Joya Carveador  【３】
+Joya Transportador  【１】
+Joya Recogida  【１】
+Joya Cogecorre  【１】
+Joya Bendición  【１】
+Joya Amistad  【１】
+Joya Amistad  【２】
+Joya Psíquica  【１】
+Joya Profesor  【１】
+Joya Armero  【１】
+Joya Tenaz  【１】
+Joya Percepción  【１】
+Joya Soldado  【１】
+Joya Ninja  【１】
+Joya Artesano  【２】
+Joya Artesano  【３】
+Joya Rebote  【１】
+Joya Rebote  【３】
+Joya Cuchilla  【１】
+Joya Cuchilla  【３】
+Joya Desenfundado  【１】
+Joya Desenfundado  【２】
+Joya Gambito  【１】
+Joya Gambito  【３】
+Joya Muro Hierro  【１】
+Joya Muro Hierro  【２】
+Joya Escudo  【１】
+Joya Escudo  【２】
+Joya Afilador  【１】
+Joya Supertiro  【１】
+Joya Supertiro  【３】
+Joya Perforadora  【１】
+Joya Perforadora  【３】
+Joya Perdigon  【１】
+Joya Perdigon  【３】
+Joya Bono Disparo  【１】
+Joya Bono Disparo  【２】
+Joya Bono Perforador  【１】
+Joya Bono Perdigon  【１】
+Joya Bono Explosivo  【１】
+Joya Bono Grupo  【１】
+Joya Cortadora  【１】
+Joya Reserva  【１】
+Joya Reserva  【３】
+Joya Recarga  【１】
+Joya Recarga  【２】
+Joya Retroceso  【１】
+Joya Retroceso  【３】
+Joya Tirador  【１】
+Joya Rev. Parálisis  【１】
+Joya Rev. Parálisis  【２】
+Joya Rev. Sueño  【１】
+Joya Rev. Veneno  【１】
+Joya Rev. Poder  【１】
+Joya Rev. Poder  【２】
+Joya Rev. Alcance  【１】
+Joya Rev. Fatiga  【１】
+Joya Antorcha  【１】
+Joya Liberar  【２】
+Joya Despertar  【３】
+Joya Tripas  【１】
+Joya Tripas  【２】
+Joya Carnívoro  【１】
+Joya Carnoso  【１】
+Joya Abeja  【１】
+Joya Abeja Reina  【１】
+Joya Biología  【１】
+Joya Microbio  【１】
+Joya Espiritu  【１】
+Joya Espiritu  【２】
+Joya ileso  【１】
+Joya ileso  【２】
+Joya Buen Pulso  【１】
+Joya Buen Pulso  【３】
+Joya Jugador  【１】
+Joya Moral  【１】
+Joya Líder  【１】
+Joya Líder  【２】
+Joya Amuletos  【１】
+Joya Superbaba  【１】
+Joya Rev. Baba  【１】

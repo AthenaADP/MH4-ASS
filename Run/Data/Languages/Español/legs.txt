@@ -1,0 +1,359 @@
+﻿Pantalones de Valiente
+Pantalones de Cuero
+Pantalones de Malla
+Botas de Loc Lac 
+Grebas de Cazador
+Calzas de Cazador
+Grebas de Hueso
+Calzas de Hueso
+Grebas de Aleacion
+Calzas de Aleacion
+Grebas de Rhenoplos
+Calzas de Rhenoplos
+Botas de Bnahabra
+Pantalones de Bnahabra
+Grebas de Jaggi
+Calzas de Jaggi
+Grebas de Genprey
+Calzas de Genprey
+Grebas de Velociprey
+Calzas de Velociprey
+Grebas de Arzuros
+Calzas de Arzuros
+Grebas de Metal de Calidad
+Calzas de Metal de Calidad
+Grebas de Batalla
+Calzas de Batalla
+Grebas de Kecha
+Calzas de Kecha
+Grebas de Gypceros
+Calzas de Gypceros
+Grebas de Conga
+Calzas de Conga
+Grebas de Ludroth
+Calzas de Ludroth
+Grebas de Lagombi
+Calzas de Lagombi
+Grebas de Ioprey
+Calzas de Ioprey
+Pezuñas de Remobra
+Medias de Remobra
+Grebas de Tetsukabra 
+Calzas de Tetsukabra 
+Grebas de Kut-Ku
+Calzas de Kut-Ku
+Grebas de Rey Langosta
+Calzas de Rey Langosta
+Grebas de Barroth
+Calzas de Barroth
+Grebas de Lingote
+Calzas de Lingote
+Grebas de Basarios
+Calzas de Basarios
+Botas de Guardian
+Pantalones de Guardian
+Calcetines de Ayudante
+Medias de Ayudante
+Espinil de Aelucanth
+Escarpe de Aelucanth
+Espinil de Rhopessa
+Escarpe de Rhopessa
+Raiz Mosgharl
+Semilla Mosgharl 
+Grebas de Nerusukyura 
+Calzas de Nerusukyura
+Grebas de Khezu
+Calzas de Khezu
+Grebas de Rathian
+Calzas de Rathian
+Grebas de artesanas
+Calzas de artesanas
+Grebas de Zaboazagiru
+Calzas de Zaboazagiru
+Grebas de Garara
+Calzas de Garara
+Grebas de Plesioth
+Calzas de Plesioth
+Botas Bardo Gremio
+Polainas Bardo Gremio
+Calcetines de Escolar
+Sandalias de Escolar
+Grebas de Zinogre
+Calzas de Zinogre
+Grebas de Generu
+Calzas de Generu
+Grebas de Nibelsnarf
+Calzas de Nibelsnarf
+Grebas de Ceanataur
+Calzas de Ceanataur
+Grebas de Gao
+Calzas de Gao
+Grebas de Tigrex
+Calzas de Tigrex
+Grebas de Brachydios
+Calzas de Brachydios
+Grebas de Nargacuga
+Calzas de Nargacuga
+Grebas de Gravios
+Calzas de Gravios
+Grebas de Rathalos
+Calzas de Rathalos
+Grebas de Lavasioth
+Calzas de Lavasioth 
+Grebas de Diablos
+Calzas de Diablos
+Grebas de Garuga
+Calzas de Garuga
+Grebas de Uragaan
+Calzas de Uragaan
+Grebas de Duramboros
+Calzas de Duramboros
+Grebas de Arco
+Calzas de Arco
+Grebas de Philia
+Calzas de Philia 
+Gusoku Zannyo 
+Hakama Shinonome 
+Gusoku Tokiwa 
+Hakama Yachiyo 
+Def. Pierna Kirin
+Botas de Kirin
+Gusoku Akatsuki 
+ Gusoku Akebono
+Hakama Rin
+Hakama Tsuya
+Def. Pierna de Cuero Negro
+Pantalones de Cuero Negro
+Botas Estrella Azul
+Pantalones de Estrella Azul
+Grebas de Valiente S
+Calzas de Valiente S
+Grebas de Cuero S
+Calzas de Cuero S
+Grebas de Malla S
+Calzas de Malla S
+Grebas de Cazador S
+Calzas de Cazador S
+Grebas de Hueso S
+Calzas de Hueso S
+Grebas de Aleacion S
+Calzas de Aleacion S
+Grebas de Rhenoplos S
+Calzas de Rhenoplos S
+Botas de Bnahabra S
+Pantalones de Bnahabra S
+Grebas de Jaggi S
+Calzas de Jaggi S
+Grebas de Genprey Ｓ
+Calzas de Genprey Ｓ
+Grebas de Volvidon
+Calzas de Volvidon 
+Grebas de Qurupeco
+Calzas de Qurupeco
+Grebas de Conga Ｓ
+Calzas de Conga Ｓ
+Grebas de Conga Ｕ
+Calzas de Conga Ｕ
+Grebas de Velociprey Ｓ
+Calzas de Velociprey Ｓ
+Botas de Metal Cromado
+Pantalos de Metal Cromado
+Grebas de Cephalos
+Calzas de Cephalos 
+Grebas de Hermitaur
+Calzas de Hermitaur
+Pezuñas de Remobra S
+Medias de Remobra S
+Pantalones de Ioprey
+Medias de Ioprey
+Grebas de Kecha Ｓ
+Calzas de Kecha Ｓ
+Grebas de Kut-Ku Ｓ
+Calzas de Kut-Ku Ｓ
+Grebas de Kut-Ku Ｕ
+Calzas de Kut-Ku Ｕ
+Espinil de Obituario
+Femur de Obituario
+Espinil de Mariposa
+Femur de Mariposa
+Grebas de Ioprey Ｓ
+Calzas de Ioprey Ｓ
+Grebas de Dober
+Calzas de Dober
+Grebas de Lagombi S
+Calzas de Lagombi S
+Botas de Halcon
+Pantalones de Halcon
+Botas de Ecole
+Pantalones de Ecole
+Grebas de Gypceros Ｓ
+Calzas de Gypceros Ｓ
+Grebas de Gypceros Ｕ
+Calzas de Gypceros Ｕ
+Grebas de Volvidon
+Calzas de Volvidon
+Grebas de Tetsukabra  Ｓ
+Calzas de Tetsukabra  Ｓ
+Grebas de Nerusukyura S
+Calzas de Nerusukyura S
+Grebas de Khezu Ｓ
+Calzas de Khezu Ｓ
+Grebas de Khezu Ｕ
+Calzas de Khezu Ｕ
+Grebas de Rathian S
+Calzas de Rathian S
+Grebas de Rathian Rosa
+Calzas de Rathian Rosa
+Grebas de Luna Dorada
+Calzas de Luna Dorada
+Grebas de Rathian EX
+Calzas de Rathian EX 
+Grebas de Basarios Ｓ
+Calzas de Basarios Ｓ
+Grebas de Basarios Ｕ
+Calzas de Basarios Ｕ
+Grebas de Artesano Ｓ
+Calzas de Artesano Ｓ
+Grebas de Zinogre Ｓ
+Calzas de Zinogre Ｓ
+Grebas de Zinogre Ｕ
+Calzas de Zinogre Ｕ
+Grebas de Gao Ｓ
+Calzas de Gao Ｓ
+Grebas de Gobul
+Calzas de Gobul
+Botas de Caballero de Gremio
+Leotardos de Caballero de Gremio
+Calcetines Mucama
+Medias de Mucama
+Alpargatas de Explorador
+Alpargaras de Arquero
+Grebas de Generu Ｓ
+Calzas de Generu Ｓ
+Grebas de Zaboazagiru Ｓ
+Calzas de Zaboazagiru Ｓ
+Grebas de Garara Ｓ
+Calzas de Garara Ｓ
+Grebas de Tigrex Ｓ
+Calzas de Tigrex Ｓ
+Grebas de Tigrex Ｕ
+Calzas de Tigrex Ｕ
+Grebas de X-Zero
+Calzas de X-Zero
+Grebas de Tigrex EX
+Calzas de Tigrex EX
+Grebas de Blango
+Calzas de Blango
+Grebas de Cinturon Negro
+Calzas de Cinturon Negro
+Grebas de Rathalos S
+Calzas de Rathalos S
+Grebas de alma de Rathalos
+Calzas de alma de Rathalos
+Grebas de Sol Plateado
+Calzas de Sol Plateado
+Grebas de Rathalos EX
+Calzas de Rathalos EX 
+Grebas de  Gravios S
+Calzas de Gravios  S
+Grebas de Gravios U
+Calzas de Gravios  U
+Grebas de Barioth
+Calzas de Barioth
+Grebas de Brachydios Ｓ
+Calzas de Brachydios Ｓ
+Grebas de Agnaktor
+Calzas de Agnaktor
+Grebas de Garuga Ｓ
+Calzas de Garuga Ｓ
+Grebas de Lagiacrus
+Calzas de Lagiacrus
+Def. Pierna Kirin S
+Botas de Kirin S
+Def. Pierna Kirin U
+Botas de Kirin U
+Hakama Yukumo (Cielo)
+Hakama Yukumo (Tierra)
+Calcetines de Marinero
+Sanadalias de Marinero
+Grebas de Vangis
+Calzas de Vangis
+Grebas de Codicia
+Calzas de Codicia
+Zannyo Ha [Botas]
+Shinonome Ha [Botas]
+Tokiwa Ha [Botas]
+Yachiyo Ha [Pantalones]
+Yamato [Botas]
+Mutsu [Botas]
+Hinata [Pantalones]
+Amagi [Pantalones]
+Grebas de Arco S
+Calzas de Arco S
+Grebas de Philia S
+Calzas de Philia S
+Hakama Dorado
+Calcetines de Maestro Marioneta
+Hakama Furia
+Tabi Latido Cecorazon
+Dobl. Akantor Oscuro
+Botas Akantor Oscuro
+Dobl. Ukanlos Oscuro
+Botas Ukanlos Oscuro
+Grebas de Kaiser
+Calzas de Kaiser
+Grebas de Kaiser EX
+Calzas de Kaiser EX
+Grebas de Emperatriz
+Calzas de Emperatriz
+Tibia Kushala
+Anca Kushala
+Tibia Kushala EX
+Anca Kushala EX
+Yasha [Pies]
+Shura [Pies]
+Grebas de Rebelion
+Calzas de Motin
+Midzuha [Botas]
+Toyotama [Botas]
+Botas Sinobi (Cielo)
+Botas Sinobi (Tierra)
+Gusoku Kongo 
+Gusoku Fudou 
+Pezuñas de Dragon
+Patas de Dragon
+Grebas de Helios
+Calzas de Helios
+Grebas de Selene
+Calzas de Selene
+Escama Escadora
+Concha Escadora
+Robillera de Chakra
+Def. Pierna Kirin EX U
+Botas de Kirin EX U
+Botas Capitan J 
+Pantalones Capitan J 
+Grebas de Lingote EX
+Calzas de Lingote EX
+Botas Leyenda J
+Pantalones Leyenda J
+Jeans Tienda Bow
+Tela Vaquera Tienda Bow
+Pantalones  UNIQLO
+Medias UNIQLO
+Grebas Estrella Suerte
+Calzas Estrella Suerte
+Grebas de Zodiaco
+Calzas de Zodiaco
+Grebas de Valiente
+Botas de Valiente
+Pantalones del mas Fuerte
+Ropa Interior del mas Fuerte
+Grebas de Artesano EX
+Calzas de Artesano EX
+Grebas de Gao EX
+Calzas de Gao EX
+Grebas de Rebelion EX
+Calzas de Motin EX
+Pezuñas de Fatalis Carmesi
+Patas de Fatalis Carmesi

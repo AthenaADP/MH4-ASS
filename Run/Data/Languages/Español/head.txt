@@ -1,0 +1,367 @@
+﻿Cubre Cabeza de Valiente
+Cubre Cabeza de Cuero
+Cubre Cabeza de Malla
+Casco de Cazador
+Gorro de Cazador
+Casco de Hueso
+Gorro de Hueso
+Casco de Aleacion
+Gorro de Aleacion
+Casco de Rhenoplos
+Gorro de Rhenoplos
+Sobrero de Bnahabra
+Gorro de Bnahabra 
+Casco de Jaggi
+Gorro de Jaggi
+Capucha Slagtoth
+Caperusa Slagtoth
+Casco de Genprey
+Gorro de Genprey
+Casco de Velociprey
+Gorro de Velociprey
+Casco de Arzuros
+Gorro de Arzuros
+Casco Metal de Calidad
+Gorro de Metal de Calidad
+Casco de Batalla
+Gorro de Batalla
+Casco de Kecha
+Gorro de Kecha
+Casco de Gypceros
+Gorro de Gypceros
+Casco de Conga
+Gorro de Conga
+Casco de Ludroth
+Gorro de Ludroth
+Casco de Lagombi
+Gorro de Lagombi
+Casco de Ioprey
+Gorro de Ioprey
+Cubre Cabeza de Remobra 
+Cara de Remobra
+Casco de Tetsukabra 
+Gorro de Tetsukabra 
+Casco de Kut-Ku
+Gorro de Kut-Ku
+Casco de Rey Langosta
+Gorro de Rey Lanosta
+Casco de Barroth
+Gorro de Barroth
+Casco de Lingote
+Gorro de Lingote
+Casco de Basarios
+Gorro de Basarios
+Casco de Guardian
+Mascar de Guardian
+Capucha Ayudante
+Gorro de ayudante
+Vertice de Aelucanth
+Clipeo de Aelucanth
+Vertice de Rhopessa
+Clipeo de Rhopessa
+Vizera Mosgharl
+Ala Mosgharl
+Casco de Nerusukyura
+Gorro de Nerusukyura
+Casco de Khezu
+Gorro de Khezu
+Casco de Rathian
+Gorro de Rathian
+Casco de Zaboazagiru
+Gorro de Zaboazagiru
+Casco de Garara
+Gorro de Garara
+Casco de Plesioth
+Gorro de Plesioth
+Gorro. Pluma Bardo Gremio
+Sombrero Bardo Gremio
+Capucha Escolar
+Bouna de Escolar
+Casco de Zinogre
+Gorro de Zinogre
+Casco de Generu
+Gorro de Generu
+Casco de Nibelsnarf
+Gorro de Nibelsnarf
+Casco de Ceanataur
+Gorro de Ceanataur
+Casco de Gao
+Gorro de Gao
+Casco de Tigrex
+Gorro de Tigrex
+Casco de Brachydios
+Gorro de Brachydios
+Casco de Nargacuga
+Gorro de Nargacuga
+Casco de Gravios
+Gorro de Gravios 
+Casco de Rathalos
+Gorro de Rathalos
+Casco de Lavasioth
+Gorro de Lavasioth
+Casco de Diablos
+Gorro de Diablos
+Casco de Garuga
+Gorro de Garuga
+Casco de Uragaan
+Gorro de Uragaan
+Casco de Duramboros
+Gorro de Duramboros
+Casco de Arco
+Gorro de Arco
+Casco de Philia
+Gorro de Philia
+Kabuto Zannyo
+Jingasa Shinonome 
+Kabuto Tokiwa 
+Kanmuri Yachiyo 
+Cuerno de Kirin
+Cresta de Kirin
+Kabuto Akatsuki 
+Eboshi Akebono 
+Hachi Rin 
+Hachi Tsuya 
+Mascara de Gargwa
+Mascara de Jaggi
+Pluma de Amistad
+Rey Wyvern Tuerto
+Mascara de Sargento Frog
+Casco Estrella Azul
+Sombrero Estrella Azul
+Sobra Tenebrosa
+Casco de Valiente S
+Gorro de Valiente S
+Casco de Cuero S
+Gorro de Cuero S
+Casco de Malla
+Gorro de Malla S
+Casco de Cazador S
+Gorro de Cazador S
+Casco de Hueso S
+Gorro de Hueso S
+Casco de Aleacion S
+Gorro de Aleacion S
+Casco de Rhenoplos S
+Gorro de Rhenoplos S
+Sobrero de Bnahabra S
+Gorro de Bnahabra S
+Capucha Slagtoth S
+Caperusa Slagtoth S
+Casco de Jaggi S
+Gorro de Jaggi S
+Casco de Genprey Ｓ
+Gorro de Genprey Ｓ
+Casco de Volvidon
+Gorro de Volvidon
+Casco de Qurupeco
+Gorro de Qurupeco
+Casco de Conga Ｓ
+Gorro de Conga Ｓ
+Casco de Conga Ｕ
+Gorro de Conga Ｕ
+Casco de Velociprey Ｓ
+Gorro de Velociprey Ｓ
+Casco de Cephalos
+Gorro de Cephalos
+Casco de Hermitaur
+Gorro de Hermitaur 
+Cubre Cabeza de Remobra S
+Cara de Remobra S
+Cubre Cabeza de Ioprey
+Mascara de Ioprey
+Casco de Kecha Ｓ
+Gorro de Kecha Ｓ
+Casco de Kut-Ku Ｓ
+Gorro de Kut-Ku Ｓ
+Casco de Kut-Ku Ｕ
+Gorro de Kut-Ku Ｕ
+Vertice de Obituario
+Gorro de Obituario
+Vertice de Mariposa
+Gorro de Mariposa
+Casco de Ioprey Ｓ
+Gorro de Ioprey Ｓ
+Casco de Dober
+Gorro de Dober
+Casco de Lagombi S
+Gorro de Lagombi S
+Sombrero de Halcon
+Gorro de Halcon
+Capucha Ecole
+Gorro de Ecole
+Casco de Gypceros Ｓ
+Gorro de Gypceros Ｓ
+Casco de Gypceros Ｕ
+Gorro de Gypceros Ｕ
+Casco de Volvidon
+Gorro de Volvidon
+Casco de Tetsukabra  Ｓ
+Gorro de Tetsukabra  Ｓ
+Casco de Nerusukyura  S
+Gorro de Nerusukyura S
+Casco de Khezu Ｓ
+Gorro de Khezu Ｓ
+Casco de Khezu Ｕ
+Gorro de Khezu Ｕ
+Casco de Rathian S
+Gorro de Rathian S
+Casco de Rathian Rosa
+Gorro de Rathian Rosa
+Casco de Luna Dorada
+Gorro de Luna Dorada
+Casco de Rathian EX
+Gorro de Rathian EX
+Casco de Basarios Ｓ
+Gorro de Basarios Ｓ
+Casco de Basarios Ｕ
+Gorro de Basarios Ｕ
+Casco de Artesano Ｓ
+Gorro de Artesano Ｓ
+Casco de Zinogre Ｓ
+Gorro de Zinogre Ｓ
+Casco de Zinogre Ｕ
+Gorro de Zinogre Ｕ
+Casco de Gao Ｓ
+Gorro de Gao Ｓ
+Casco de Gobul
+Gorro de Gobul
+Pluma de  Caballero de Gremio
+Mascara de Caballero de Gremio
+Benda Mucama
+Gorro de Mucama
+Sobrero de Explorador
+Turbante de Arquero
+Casco de Generu Ｓ
+Gorro de Generu Ｓ
+Casco de Zaboazagiru Ｓ
+Gorro de Zaboazagiru Ｓ
+Casco de Garara Ｓ
+Gorro de Garara Ｓ
+Casco de Tigrex Ｓ
+Gorro de Tigrex Ｓ
+Casco de Tigrex Ｕ
+Gorro de Tigrex Ｕ
+Casco de X-Zero
+Gorro de X-Zero
+Casco de Tigrex EX
+Gorro de Tigrex EX
+Casco de Blango
+Gorro de Blango
+Casco de Cinturon Negro
+Gorro de Cinturon Negro
+Casco de Rathalos S
+Gorro de Rathalos S
+Casco de alma de Rathalos
+Gorro de alma de Rathalos
+Casco de Sol Plateado
+Gorro de Sol Plateado
+Casco de Rathalos EX
+Gorro de Rathalos EX 
+Casco de Gravios S
+Gorro de Gravios S
+Casco de Gravios U
+Gorro de Gravios U
+Casco de Barioth
+Gorro de Barioth
+Casco de Brachydios Ｓ
+Gorro de Brachydios Ｓ
+Casco de Agnaktor
+Gorro de Agnaktor
+Casco de Garuga Ｓ
+Gorro de Garuga Ｓ
+Casco de Lagiacrus
+Gorro de Lagiacrus
+Cuerno de Kirin S
+Cresta de Kirin S
+Cuerno de Kirin U
+Cresta de Kirin U
+Kasa Yukumo (Cielo)
+Kasa Yukumo (Tierra)
+Capucha Marinero
+Gorro de Marinero
+Casco de Vangis
+Gorro de Vangis
+Casco de Codicia
+Gorro de Codicia
+Zannyo Ha [Casco]
+Shinonome Ha [Casco]
+Tokiwa Ha [Casco]
+Yachiyo Ha [Corona]
+Yamato [Casco]
+Mutsu [Gorro]
+Hinata [Casco]
+Amagi [Casco]
+Casco de Arco S
+Gorro de Arco S
+Casco de Philia S
+Gorro de Philia S
+Pelo Dorado
+Mascara de Maestro Marioneta
+Pelo Furia
+Mascara Latido de Corrazon
+Mascara Akantor Oscura
+Colmillo Akantor Oscuro
+Mascara de Ukanlos Oscura
+Colmillo Ukanlos Oscuro
+Corona de Kaiser
+Mascara de Kaiser
+Corona de Kaiser EX
+Mascara de Kaiser EX
+Sector de Emperatriz
+Mascara de Emperatriz
+Fulgor Kushala
+Gruñido Kushala
+Fulgor Kushala EX
+Gruñido Kushala EX
+Yasha [Cara]
+Shura [Cara]
+Casco de Rebelion
+Gorro de Motin
+Midzuha [Gorro]
+Toyotama [Gorro]
+Mascara Shinobi (Cielo)
+Mascara Shinobi (Tierra)
+Kabuto Kongo 
+Kabuto Fudou 
+Cabeza de Dragon
+Cara de Dragon
+Casco de Helios
+Gorro de Helios
+Casco de Selene
+Gorro de Selene
+Sabiduria Escadora
+Sapeinsia Escadora
+Piercing Chakra
+Pluma de Victoria
+Pluma de Heroe
+Pluma de Campeones
+Copa de estrategia
+Banda de Pelo Felyne
+Cabeza de Calavera
+Mascara de Calavera
+Cuerno de Kirin EX U
+Cresta de Kirin EX U
+Sombrero Capitan J
+Roger Capitan J 
+Casco de Lingote EX
+Gorro de Lingote EX
+Sombrero Leyenda J
+Roger Leyenda J
+Capucha UNIQLO
+Gorro UNIQLO
+Casco Estrella Suerte
+Gorro Estrella Suerte
+Casco de Zodiaco
+Gorro de Zodiaco
+Gorro de Valiente
+Capucha de Valiente
+Dohatsu de Viento
+Pelaje Compulsivo
+Casco de Artesano EX
+Gorro de Artesano EX
+Casco de Gao EX
+Gorro de Gao EX
+Casco de Rebelion EX
+Gorro de Motin EX
+Cabeza de Fatalis Carmesi
+Cara de Fatalis Carmesi

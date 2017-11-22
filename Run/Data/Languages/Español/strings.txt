@@ -1,0 +1,125 @@
+Raiden.cl, Ka_Kui and Sephy
+&Archivo
+&Opciones
+&Idioma
+&Ayuda
+&Cargar
+&Guardar
+&Guardar
+S&alir
+&Limpiar Ajustes
+Permitir &Malas Habilidades
+Permitir &Armaduras Arena
+Permitir &Armadudas Evento
+Permitir &DLC Unicas-Japon
+Permitir &Armadura Bajo Rango
+Ordenar Habilidades &Alfabeticamente
+Permitir &Armadura excavacion
+&Pasa y ranuras en piezas de habilidades adicionales
+&Que hacen las habilidades?
+Revisar &Actualizaciones
+&Acerca de
+Mis &Talismanes
+&Importar
+&Busqueda Rapida
+&Busqueda Avanzada
+&Cancelar
+&Defecto
+&Ninguno
+Ninguno
+Ninguno
+&Busqueda
+Seleccionar &Ninguno
+Seleccionar &Superior
+&Agregar Nuevo
+Bo&rrar
+Borrar &Todo
+Mover &Arriba
+Mover &Abajo
+&Recortar
+&Cerrar
+&Encontrar Siguiente
+Misiones de Gremio
+Misiones de Villa
+Max Ran. Arma
+Masculino
+Femenino
+Filtrar Resultado Por Amuleto
+Ordenar Resultados Por
+Todo
+Res Dragon
+Res Fuego
+Res Hielo
+Res Trueno
+Res Agua
+Defensa Base
+Defensa Max
+Dificultad
+Rareza
+Repuesto Ranura
+Familia
+Habilidad Extra
+Talismanes
+No utilizar Talismanes
+Utilizar mis Talismanes
+Utilizar ranuras Talisman
+Utilizar un Max de una habilidad talisman 
+Utilizar un Max de dos habilidad talisman 
+Habilidad 
+Habilidades 
+Filtrar habilidad 
+Maestro Espada 
+Artillero 
+Seleccionar Armadura 
+Importar Talisman 
+Personaje 
+Eliminar talismanes existentes 
+¿Estas Seguro?
+&Ordenar
+Ranuras
+(Ninguno)
+1 repuesto ranura
+%1 repuesto ranura
+ (o cualquier pieza con 1 ranura)
+ (o cualquier pieza con %1 slots)
+ (o cualquier pieza con Aumento Torso)
+Soluciones halladas:
+Mostrando primero %1 unica solucion:
+MasaxMH Dato talisman
+Archivo Dañado.
+Version
+Encontrar
+Tu eres un tramposo.
+Error
+%1 a %2
+Defensa
+Tabla
+Resultados
+Talisman desconocido
+Borrar todos los talismanes
+ASS ajustes
+&Resultado Max
+Imprimir &Nombres adornos
+%1-%2 Def, %3 Fue, %4 Agu, %5 Hie, %6 Tru, %7 Drg 
+Joya 
+Mis &Equipos 
+Gestionar Equipos 
+Equipo 
+&Guardar 
+&Agregar nuevo 
+&Borrar 
+&Recortar 
+Tipo de Item 
+Tipo de cazador 
+Ambos 
+Arma 
+Cabeza 
+Cuerpo 
+Brazos 
+Cintura 
+Piernas
+(1% posible)
+Mostrar
+Description
+Arbol de habilidades
+Armaduras con puntos de esta habilidad:

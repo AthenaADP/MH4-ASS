@@ -1,0 +1,388 @@
+Poison
+Paralysis
+Sleep
+Faint
+Snow/Mud Res
+Defense Lock
+Biology
+Attack
+Defense
+Health
+Rec Speed
+Protection
+Sheathing
+Fast Charge
+Expert
+Tenderizer
+Destroyer
+KO
+Stamina Drain
+Constitution
+Hearing
+Wind Res
+Tremor Res
+Heat Res
+Cold Res
+Stamina
+Stamina Recovery
+Evasion
+Evade Distance
+Sense
+Guard
+Guard Up
+Status
+Elemental Attack
+Fire Attack
+Water Attack
+Thunder Attack
+Ice Attack
+Dragon Attack
+Fire Res
+Water Res
+Thunder Res
+Ice Res
+Dragon Res
+Sharpness
+Handicraft
+Sharpening Speed
+Punishing Draw
+Critical Draw
+Fencing
+Reload Speed
+Loading
+Rapid Fire
+Recoil
+Precision
+Normal Up
+Pierce Up
+Pellet Up
+Normal S+
+Pierce S+
+Pellet S+
+Crag S+
+Clust S+
+Slicing S+
+Slime S+
+Poison C+
+Paralysis C+
+Sleep C+
+Power C+
+C.Range C+
+Exhaust C+
+Slime C+
+Maestro
+Artillery
+Bomb Boost
+Recovery Level
+Wide Range
+Lasting Power
+Hunger
+Gluttony
+Eating
+Carnivore
+Combo Rate
+Combo Plus
+Gathering
+Speed Gather
+Whim
+Honey
+Charmer
+Fate
+Carving
+Tranquilizer
+Perception
+Psychic
+Transporter
+Ranger
+Anti-Theft
+Speed Setup
+Flame Aura
+Potential
+Survivor
+Gloves Off
+Spirit
+Unscathed
+Free Element
+Guts
+Team Player
+Team Leader
+Auto-Guard
+Blight Res
+Status Res
+Fury
+Edgemaster
+Steadyhand
+Unshakable
+Single-Minded
+Firm Defence
+Greedy
+Infection Res
+Precise Attack
+Commander
+Rider
+Martial Arts
+Acrobat
+Shielder
+Finesse
+Charm Collector
+Amplifier
+Torso Up
+
+Negate Poison
+Double Poison
+Negate Paralysis
+Double Paralysis
+Negate Sleep
+Double Sleep
+Halve Stun
+Negate Stun
+Double Stun
+Negate Mud/Snow
+Iron Skin
+Bio Student
+Bio Master
+Attack Up (S)
+Attack Up (M)
+Attack Up (L)
+Attack Up (U)
+Attack Down (S)
+Attack Down (M)
+Attack Down (L)
+Defense Up (S)
+Defense Up (M)
+Defense Up (L)
+Defense Up (U)
+Defense Down (S)
+Defense Down (M)
+Defense Down (L)
+Health +20
+Health +50
+Health -10
+Health -30
+Rec Speed +1
+Rec Speed +2
+Rec Speed -1
+Rec Speed -2
+Divine Protection
+Demonic Protection
+Quick Sheath
+Focus
+Distraction
+Critical Eye +1
+Critical Eye +2
+Critical Eye +3
+Critical Master
+Critical Eye -1
+Critical Eye -2
+Critical Eye -3
+Weakness Exploit
+Part Breaker
+Knockout King
+Stamina Thief
+Constitution +1
+Constitution +2
+Constitution -1
+Constitution -2
+Earplugs
+HG Earplugs
+Windproof (Lo)
+Windproof (Hi)
+Tremor Resistence
+Heat Cancel
+Heat Surge
+Cold Cancel
+Cold Surge
+Marathon Runner
+Short Sprinter
+Stamina Recovery Up
+Stamina Recovery Down
+Evasion +1
+Evasion +2
+Evasion +3
+Evasion Down
+Evade Extender
+Sneak
+Taunt
+Guard +1
+Guard +2
+Guard -1
+Guard Boost
+Status Attack +1
+Status Attack +2
+Status Attack Down
+Elemental Attack Up
+Elemental Attack Down
+Fire Attack +1
+Fire Attack +2
+Fire Attack +3
+Fire Attack Down
+Water Attack +1
+Water Attack +2
+Water Attack +3
+Water Attack Down
+Thunder Attack +1
+Thunder Attack +2
+Thunder Attack +3
+Thunder Attack Down
+Ice Attack +1
+Ice Attack +2
+Ice Attack +3
+Ice Attack Down
+Dragon Attack +1
+Dragon Attack +2
+Dragon Attack +3
+Dragon Attack Down
+Fire Res (S)
+Fire Res (L)
+Fire Res Down
+Water Res (S)
+Water Res (L)
+Water Res Down
+Thunder Res (S)
+Thunder Res (L)
+Thunder Res Down
+Ice Res (S)
+Ice Res (L)
+Ice Res Down
+Dragon Res (S)
+Dragon Res (L)
+Dragon Res Down
+Razor Sharp
+Blunt Edge
+Sharpness +1
+Speed Sharpening
+Slow Sharpening
+Punishing Draw
+Critical Draw
+Mind's Eye
+Reload Speed +1
+Reload Speed +2
+Reload Speed +3
+Reload Speed -1
+Reload Speed -2
+Reload Speed -3
+Load Up
+Bonus Shot
+Recoil Reduction +1
+Recoil Reduction +2
+Recoil Reduction +3
+Recoil Reduction -1
+Recoil Reduction -2
+Recoil Reduction -3
+Steadiness +1
+Steadiness +2
+Steadiness -1
+Steadiness -2
+Normal/Rapid Up
+Pierce/Pierce Up
+Pellet/Scatter Up
+NormalS All Add
+PierceS Lv1 Add
+PierceS All Add
+PelletS Lv1 Add
+PelletS All Add
+CragS Lv1 Add
+CragS All Add
+ClustS Lv1 Add
+ClustS All Add
+SlicingS Add
+SlimeS Add
+Poison Coat Add
+Paralysis Coat Add
+Sleep Coat Add
+Power Coat Add
+C.Range Coat Add
+Exhaust Coat Add
+Slime Coat Add
+Horn Maestro
+Artillery Novice
+Artillery Expert
+Artillery Master
+Bombardier
+Recovery Up
+Recovery Down
+Wide Range +1
+Wide Range +2
+Item Use Up
+Item Use Down
+Negate Hunger
+Halve Hunger
+Raise Hunger
+Double Hunger
+Gourmand
+Scavenger
+Speed Eating +1
+Speed Eating +2
+Slow Eater
+Meat Lover
+Combination +20%
+Combination +45%
+Combination -10%
+Combination -20%
+Combination Pro
+Gathering +1
+Gathering +2
+Gathering Master
+Gathering -1
+Speed Gatherer
+Divine Whim
+Spirit's Whim
+Spectre's Whim
+Devil's Whim
+Honey Hunter
+Charm Chaser
+Charm Hunter
+Charm Master
+Good Luck
+Great Luck
+Super Luck
+Bad Luck
+Horrible Luck
+Carving Pro
+Carving Expert
+Carving Master
+Capture Pro
+Capture Expert
+Capture Master
+Capture Guru
+Detect
+Autotracker
+Pro Transporter
+Outdoorsman
+Anti-Theft
+Trap Master
+Flame Aura
+Adrenaline +1
+Adrenaline +2
+Worrywart
+Fortify
+Latent Power +1
+Latent Power +2
+Challenger +1
+Challenger +2
+Peak Performance
+Awaken
+Guts
+Felyne Rally
+Felyne Cheer
+Auto-Guard
+Blightproof
+Wellness
+Wrath Awoken
+Honed Blade
+Silver Bullet
+Rock Steady
+Predatory Focus
+Impregnable
+Filthy Rich
+Infection Resist
+Ruthless
+Felyne Commander
+Ride Master
+Poor Rider
+Punishing Skill
+Acrobatics
+Shields Up
+Dancer
+Charm Mania
+Amplification

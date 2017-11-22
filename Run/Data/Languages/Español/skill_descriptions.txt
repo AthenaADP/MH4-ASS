@@ -1,0 +1,259 @@
+﻿Aumenta los puntos de habilidad en tu armadura torso. Equivalente a la copia de sus puntos de habilidad.
+Inmunidad al veneno
+Duplica la duracion del veneno
+Inmunidad a la paralisis
+Duplica la duracion de paralisis
+Previene el Dormirse.
+Duplica la duracion del sueño; Fuerza a dormirse inmediatamente.
+Disminuye la tasa de ser aturdido en un 50%.
+Previene ser Aturdido.
+Cuando estas aturdido se duplica el tiempo de recuperacion.
+Inmunidad al Barro y Nieve
+Inmunidad a la Defensa Baja
+Maestro Boñiga + Antiseptico.
+Maestro Boñiga + Antiseptico ; Se acorta el Tiempo para deshacerse del Feral Wyvern Virus.
+Ataque Aumenta ligeramente, +10.
+Ataque Aumenta medianamente, +15.
+Ataque Aumenta considerablemente, +20.
+Aataque Aumenta demasiado, +25.
+Ataque Disminuye ligeramente, -5.
+Ataque Disminuye medianamente, -10.
+Ataque Disminuye en gran medida, -15.
+Defensa Aumenta ligeramente, +10.
+Defensa Aumenta medianamente, +15.
+Defensa Aumenta considerablemente, +20.
+Defensa Aumenta demasiado, +25.
+Defensa Disminuye ligeramente, -10.
+Defensa Disminuye medianamente, -15.
+Defensa Disminuye en gran medida, -20.
+Salud Aumenta desde 100 a 120
+Salud Aumenta desde 100 a 150
+Salud Disminuye desde 100 a 90
+Salud Disminuye desde 100 a 70
+La parte roja del indicador de Vida se recupera 2 veces mas rapido.
+La parte roja del indicador de Vida se recupera 4 veces mas rapido.
+La parte roja del indicador de Vida se recupera 2 veces mas lento.
+La parte roja del indicador de Vida se recupera 4 veces mas lento.
+25% de chance de tomar 70% del daño total recibido.
+25% de chance de tomar 130% del daño total recibido.
+Mas rapido desanvaina las armas
+20% mas rapido los golpes de carga el Arco, SA, GS, CA, LS, DS, Martillo.
+20% mas lento los golpes de carga el Arco, SA, GS, CA, LS, DS, Martillo.
+Incrementa la Afinidad en 10%.
+Incrementa la Afinidad en 15%.
+Incrementa la Afinidad en 20%.
+Incrementa la Afinidad en 30%.
+Disminuye la Afinidad en 5%.
+Disminuye la Afinidad en 10%.
+Disminuye la Afinidad en 15%.
+5% de daño adicional sobre puntos debiles donde el daño es igual o superior a 45
+30% mas facil de romper partes, cortar colas, etc
+Incrementa el daño de knock-out en 10%.
+Incrementa en un 20% el daño a la resistencia del monstruo.
+25% menos de consumo de resistencia cuando utiliza evadir.
+50% menos de consumo de resistencia cuando utiliza evadir.
+20% mas de consumo de resistencia cuando utiliza evadir.
+35% mas de consumo de resistencia cuando utiliza evadir.
+Inmunidad a algunos rugidos de monstruo.
+Inmunidad a los rugidos del monstruo
+Inmunidad a cierta presion del viento.
+Inmunidad a toda la presion del viento.
+Inmunidad a los temblores.
+Inmunidad al calor y la lava.
+Duplica daño de calor y lava
+Inmunidad al frio.
+Duplica Perdida de Resistencia del frio.
+Disminuye la reduccion de resistencia al correr, no asi para evasion o bloqueos.
+Aumenta la reduccion de stamina al correr, no asi para evasion o bloqueos.
+Dobla la tasa de recuperacion de resistencia.
+Disminuye la velocidad de recuperacion de resistencia.
+Extiende el tiempo de invulnerabilidad al evadir de 6/30seg, a 10/30seg.
+Extiende el tiempo de invulnerabilidad al evadir de 6/30seg, a 12/30seg.
+Extiende el tiempo de invulnerabilidad al evadir de 6/30seg, a 15/30seg.
+Disminuye el tiempo de invulnerabilidad al evadir.
+Incrementa la Distancia de evasion en 50%
+Los monstruos te elegiran menos como objetivo en cazas grupales.
+Es mas probable que un monstruo te elija como objetivo en cazas grupales.
+Disminuye el empuje que sufre el cazador al bloquear un ataque, como tambien disminuye la perdida de resistencia y perdida de vida al bloquear ataques mas fuertes.
+Disminuye de manera considerable el empuje que sufre el cazador al bloquear un ataque, como tambien disminuye la perdida de resistencia y perdida de vida al bloquear ataques mas fuertes.
+Incrementa el empuje que sufre el cazador al bloquear un ataque, como tambien incrementa la perdida de resistencia y perdida de vida al bloquear ataques mas fuertes.
+Causa que ataques que eran previamente imbloqueables, se vuelvan bloqueables.
+Aumento de los efectos de estado de las armas.
+Gran Aumento de los efectos de estado de las armas.
+Disminucion de los efectos de estado de las armas y bombas tranquilizante.
+Los ataques elementales aumentan 10%
+Los ataques elementales disminuyen.
+ +20 Elemento Fuego en las armas y Fuego S.
+ +40 Elemento Fuego en las armas y Fuego S.
+ +55 Elemento Fuego en las armas y Fuego S.
+ -30 Elemento Fuego en las armas y Fuego S.
+ +20 Elemento Agua en las armas y Agua S.
+ +40 Elemento Agua en las armas y Agua S.
+ +55 Elemento Agua en las armas y Agua S.
+ -30 Elemento Agua en las armas y Agua S.
+ +20 Elemento Trueno en las armas y Trueno S.
+ +40 Elemento Trueno en las armas y Trueno S.
+ +55 Elemento Trueno en las armas y Trueno S.
+ -30 Elemento Trueno en las armas y Trueno S.
+ +20 Elemento Hielo en las armas y Hielo S.
+ +40 Elemento Hielo en las armas y Hielo S.
+ +55 Elemento Hielo en las armas y Hielo S.
+ -30 Elemento Hielo en las armas y Hielo S.
+ +20 Elemento Dragon en las armas y Dragon S.
+ +40 Elemento Dragon en las armas y Dragon S.
+ +55 Elemento Dragon en las armas y Dragon S.
+ -30 Elemento Dragon en las armas y Dragon S.
+Resistencia a Fuego Aumenta en 15 puntos.
+Resistencia a Fuego Aumenta en 20 puntos.
+Resistencia a Fuego disminuye en 20 puntos
+Resistencia a Agua Aumenta en 15 puntos.
+Resistencia a Agua Aumenta en 20 puntos.
+Resistencia a Agua disminuye en 20 puntos
+Resistencia a Trueno Aumenta en 15 puntos.
+Resistencia a Trueno Aumenta en 20 puntos.
+Resistencia a trueno disminuye en 20 puntos
+Resistencia a Hielo Aumenta en 15 puntos.
+Resistencia a Hielo Aumenta en 20 puntos.
+Resistencia a Hielo disminuye en 20 puntos
+Resistencia a Dragon disminuye en 20 puntos
+Resistencia a Dragon disminuye en 20 puntos
+Resistencia a Dragon disminuye en 20 puntos
+Reduce a la mitad la tasa a la cual el arma pierde filo.
+Duplica la tasa a la que el arma pierde filo.
+Aumenta nivel de afilado de arma
+Rapidez al afilar el arma
+Lentitud al afilar el arma
+Ataques desenvainar infligen KO.
+Ataques desenvainar tienen 100% de afinidad.
+Previene que tus ataques reboten.
+La velocidad de recarga de Municion de Ballestas y Revestimientos de arcos Aumenta en 1 nivel.
+La velocidad de recarga de Municion de Ballestas y Revestimientos de arcos Aumenta en 2 niveles.
+La velocidad de recarga de Municion de Ballestas y Revestimientos de arcos Aumenta en 3 niveles.
+La velocidad de recarga de Municion de Ballestas y Revestimientos de arcos disminuye en 1 nivel.
+La velocidad de recarga de Municion de Ballestas y Revestimientos de arcos disminuye en 2 niveles.
+La velocidad de recarga de Municion de Ballestas y Revestimientos de arcos disminuye en 3 niveles.
+Incrementa la cantidad de municion usable de Ballestas y Lanzas Pistolas en 1; Agrega 1 carga extra a los Arcos.
+Agrega otro disparo a Fuego Rapido (solo LBG)
+Reduce el retroceso en Ballesta en 1 nivel.
+Reduce el retroceso en Ballesta en 2 nivel.
+Reduce el retroceso en Ballesta en 3 nivel.
+Aumenta el retroceso en Ballesta en 1 nivel.
+Aumenta el retroceso en Ballesta en 2 nivel.
+Aumenta el retroceso en Ballesta en 3 nivel.
+Disminuye la desviacion al apuntar.
+Disminuye la desviacion al apuntar, de manera considerable.
+Incrementa la Desviacion al Apuntar.
+Incrementa la Desviacion al Apuntar, de manera considerable.
+10% de daño para disparo Normal S y Flechas rapidas .
+Incrementa el daño de el Disparo Perforador/Flecha Perforadora en 10%
+Aumenta el poder del disparo perdigon en 20%; Aumenta el poder de las Flechas Scatter en 30%
+Permite a una Ballesta disparar todo los disparos normales.
+Permite a una Ballesta disparar Perforador Lv1; Agrega Municion.
+Permite a una Ballesta disparar Perforador de todos los Lv; Agrega Municion.
+Permite a una Ballesta disparar Perdigon Lv1; Agrega Municion.
+Permite a una Ballesta disparar Perdigon de todos los Lv; Agrega Municion.
+Permite a una Ballesta disparar Grag S Lv1
+Permite a una Ballesta disparar Crag de todos los Lv
+Permite a una ballesta que dispara Grupo Lv1, tener 1 bala mas.
+Permite a una ballesta que dispara Todos los tipos de Disparo Grupo, tener 1 bala mas.
+Permite a una Ballesta usar disp. Rebanador; agrega municion.
+Permite a una Ballesta usar disp. Slime S; agrega municion.
+Permite a un Arco usar Revestimiento de Veneno.
+Permite a un Arco usar Revestimiento de Paralisis.
+Permite a un Arco usar Revestimiento de Sueño.
+Permite a un arco usar revestimiento de poder.
+Permite a un arco usar revestimiento de rango corto.
+Permite a un arco usar revestimiento Fatiga.
+Permite a un arco usar revestimiento Blast.
+Flautas menos propensos a romperse, Cuerno de caza melodias duran 1 minuto mas. menos propensos a romperse.
+Pequeño aumento al daño de Ballista, Cañones, Risco S, Disparos de Lanza Pistola y Wyvernfire.
+Mediano aumento al daño de Ballista, Cañones, Risco S, Disparos de Lanza Pistola y Wyvernfire.
+Gran aumento al daño de Ballista, Cañones, Risco S, Disparos de Lanza Pistola y Wyvernfire.
+30% de daño de la bomba y el atributo Blast. 100% de tasa de combinacion de bomba.
+Aumenta la eficiencia de los items de recuperacion de vida en 25%.
+Disminuye la eficiencia de los items de recuperacion de vida en 25%.
+items de curacion de vida y estatus afectaran a los miembros de tu grupo. Los miembros recibiran el 50% del efecto.
+items de curacion de vida y estatus afectaran a los miembros de tu grupo. Los miembros recibiran el efecto completo.
+Incrementa la duracion de efectos de objetos, bebidas y cuernos en 50%
+Disminuye la duracion de efectos de objetos, bebidas y cuernos, en33%
+Perdida de Resistencia del hambre se reduce a la mitad.
+Perdida de Resistencia del hambre es negado.
+Perdida de Resistencia del hambre es un 50% mas.
+Perdida de Resistencia del hambre se duplica.
+25% de probabilidades de incrementa la eficiencia de los items que aumentan resistencia.
+33% de probabilidades, Si comes articulos tales como bebidas, carnes y pescados, el valor maximo de la resistencia se incrementa
+Incrementa la velocidad de consumo de carnes y pescados.
+Incrementa la velocidad de consumo de todos los items.
+Disminuye la velocidad de consumo de items.
+La carne cruda da +50 de resistencia. Otras carnes fin del consumo de resistencia durante 1 minuto.
+Combinacion tasa de exito +20%
+Combinacion tasa de exito +45%
+Combinacion tasa de exito -10%
+Combinacion tasa de exito -20%
+Siempre obtenga maximo  de combinaciones de materiales
+Aumenta ligeramente el numero de veces que se puede recoger en un punto de recogida.
+Aumenta bastante el numero de veces que se puede recoger en un punto de recogida.
+Aumenta de manera significativa el numero de veces que se puede recoger en un punto de recogida.
+Disminuye el numero de veces que se puede recoger en un punto de recogida.
+Aumenta la Velocidad de recogida.
+50 % menos de probabilidades de que se rompan los picos de mineria/redes de bicho/Cuernos 
+25 % menos de probabilidades de que se rompan los picos de mineria/redes de bicho/Cuernos se rompan se reduce de manera considerable.
+25% mas de probabilidades de que se rompan los picos de mineria/redes de bicho/Cuernos se rompan se incrementa.
+50 % mas de probabilidades de que se rompan los picos de mineria/redes de bicho/Cuernos se rompan se incrementa.
+Duplica los lugares en donde encontrar miel
+Probabilidad de recibir Talismaness adicionales cuando la mineria.
+Aumento de la posibilidad de recibir encantos adicionales cuando la mineria.
+Gran Aumento de la posibilidad de recibir encantos adicionales cuando la mineria.
+Incrementa el numero de recompensas, a veces.
+Incrementa el numero de recompensas, a menudo.
+Incrementa el numero de recompensas, casi siempre.
+El numero de recompensas es menor, a veces.
+El numero de recompensas es menor, a menudo.
+Ataques menores no interrumpen el carveado.
+Ataques menores no interrumpen el carveado, 1 carveado extra
+Ataques menores no interrumpen el carveado, 2 carveado extra
+Aumento de la posibilidad de recompensas extra en captura.
+Gran Aumento de la posibilidad de recompensas extra en captura.
+siempre obtendras recompensas extra en captura.
+El Icono de un Monstruo marcado en el mapa, comenzara a parpadear cuando este listo para capturar (start + Y para verlo mejor)
+Monstruos marcados muestran informacion adicional en el mapa; 66% de probabilidad de mostrar la posicion del monstruo al inicio y cada 5 minutos despues.
+Activa “Deteccion” sin tener que marcar al monstruo.
+La velocidad del transporte de objetos (huevos o piedras de fuego) en movimiento, escalada, incluso saltando de un lugar mas alto que cuando se transporta normalmente, el objeto no caera.
+Experto en pesca, experto en asar carnes, y tienes el mapa completo siempre.
+Inmunidad a que Melynxes te roben items
+Aumenta la velocidad al poner una trampa o bombas. 100% de exito al combinar Trampas.
+Efecto de la antorcha se aplica siempre
+Cuando el HP<40%, el bono de defensa Aumenta a +40.
+Cuando el HP<40%, el bono de defensa Aumenta +45, y el ataque aumenta en 30%.
+Cuando el HP<40%, el bono de defensa disminuye en -21, y el ataque disminuye en 30%veces.
+Si estas a punto de morir la defensa se incrementa en 30 puntos;
+30% de afinidad y el 50% menos de consumo de aguante despues de 5 minutos de combates o de tomar 180 de daño.
+50% de afinidad y el 75% menos de consumo de aguante despues de 5 minutos de combates o de tomar 180 de daño.
+10 Ataque y Afinidad 10% cuando el monstruo esta enfurecido
+25 Ataque y Afinidad 20% cuando el monstruo esta enfurecido
+Gran aumento de ataque, mientras que en el pleno de la Salud.
+Despierta el elemento no latente en el arma.
+Si la salud es de 64 o superior, sobrevivir un ataque que podria causar la muerte
+Incrementa el Ataque, Defensa y velocidad de recuperacion de un Otomo en Quest.
+Cuando un Otomo se este recuperando bajo tierra, usa la baliza (start > X) para llamarlo de vuelta completamente recuperado. No es posible el uso continuo.
+Activa la Habilidad de Bloquear Automaticamente(cuando el bloqueo es posible).
+Previene todas las Plagas elementales.
+Previene: -Sueño, Veneno, Paralizis y Aturdimiento.
+Agallas y Adrenalina +2
+Habilidades Afilado+1  +  Ataque Aumentado Alto.
+Normal/Rapid Up, Pierce/Pierce Up, and Pellet/Scatter Up.
+Reducida caida, presistencia al viento (S), y tapones para los oidos.
+Foco y Carnivoro
+Aumento Defensa (L) y Piel de Hierro
+Los Articulos que aparezcan en la recompensa seran probablemente muchos. Incrementara el dinero de la Recompensa.
+Cuando eres infectado por el “Feral Wyvern Virus”, puedes curarlo mas facilmente.
+Aguijon y Ojo critico +2
+Habilidades Orden de mando + Batuta Otomo en 1 sola.
+Mas facil de montar monstruos.
+Mas dificil de montar monstruos.
+Desenv. Critico y Desenv. Castigador
+Evasion +1, Constitucion +1, y Distancia Evadir.
+Guardia Aumentada y Resis. Recup +1
+Dist. Evasion y Rendimiento Maximo
+Recogida +2 y Cazador Amuletos
+Mejora los Atributos Items que suben el ataque.

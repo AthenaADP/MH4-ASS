@@ -1,0 +1,125 @@
+-
+&File
+&Options
+&Language
+&Help
+&Load
+&Save
+&Save
+E&xit
+&Clear Settings
+Allow &Bad Skills
+Allow &Arena Armor
+Allow &Event Armor
+Allow &Japanese-Only DLC
+Allow &Lower Tier Armor
+Sort Skills &Alphabetically
+Allow E&xcavated Armor
+&Spend spare slots on extra skills
+&What do the skills do?
+Check for &Updates
+&About
+My &Charms
+&Import
+&Quick Search
+&Advanced Search
+&Cancel
+&Default
+&None
+None
+None
+&Search
+Select &None
+Select &Best
+&Add New
+De&lete
+Delete &All
+Move &Up
+Move &Down
+&Trim
+&Close
+&Find Next
+Guild Hall Quests
+Village Quests
+Max Weapon Slots
+Male
+Female
+Filter Results by Charm
+Sort Results By
+All
+Dragon res
+Fire res
+Ice res
+Thunder res
+Water res
+Base Defence
+Max Defence
+Difficulty
+Rarity
+Slots Spare
+Family
+Extra Skills
+Charms
+Use no charms
+Use my charms
+Use slotted charms
+Use up to one skill charms
+Use up to two skill charms
+Skill
+Skills
+Skill Filters
+Blademaster
+Gunner
+Select Armor
+Import Charms
+Characters
+Delete Existing Charms
+Are you sure?
+&Sort
+Slots
+(none)
+1 slot spare
+%1 slots spare
+ (or anything with 1 slot)
+ (or anything with %1 slots)
+ (or anything with Torso Inc)
+Solutions found:
+Showing first %1 solutions only:
+MasaxMH Charm data
+File is corrupt.
+Version
+Find
+You cheater, you.
+Error
+%1 to %2
+Defence
+Table
+Results
+Unknown charm
+Delete All Charms
+ASS Settings
+&Max Results
+Print &Decoration Names
+%1-%2 Def, %3 Fir, %4 Wat, %5 Ice, %6 Thn, %7 Drg
+Jewel
+My &Equipment
+Manage Equipment
+Equipment
+&Save
+&Add New
+&Delete
+&Trim
+Item Type
+Hunter Type
+Both
+Weapon
+Head
+Body
+Arms
+Waist
+Legs
+(%1 possible)
+Show
+Description
+Skill Trees
+Armors with points of this skill:

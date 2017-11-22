@@ -1,0 +1,355 @@
+﻿Guantes de Valiente
+Guantes de Cuero
+Guantes de Malla
+Avambr. de Cazador
+Guardabr. de Cazador
+Avambr. de Hueso
+Guardabr. de Hueso
+Avambr. de aleacion
+Guardabr. de Aleacion
+Avambr. de Rhenoplos
+Guardabr. de Rhenoplos
+Guantes de Bnahabra
+Magas de Bnahabra
+Avambr. de Jaggi
+Guardabr. de Jaggi
+Avambr. de Kunchuu
+Guardabr. de Kunchuu
+Avambr. de Genprey
+Guardabr. de Genprey
+Avambr. de Velociprey
+Guardabr. de Velociprey
+Avambr. de Arzuros
+Guardabr. de Arzuros
+Avambr. De Metal de Calidad
+Guardabr. de Metal de Calidad
+Avambr. de Batalla
+Guardabr. de Batalla
+Avambr. de Kecha
+Guardabr. de Kecha
+Avambr. de Gypceros
+Guardabr. de Gypceros
+Avambr. de Conga
+Guardabr. de Conga
+Avambr. de Ludroth
+Guardabr. de Ludroth
+Avambr. de Lagombi
+Guardabr. de Lagombi
+Avambr. de Ioprey
+Guardabr. de Ioprey
+Guantes de Remobra
+Manos de Remobra
+Avambr. de Tetsukabra 
+Guardabr. de Tetsukabra 
+Avambr. de Kut-Ku
+Guardabr. de Kut-Ku
+Avambr. de Rey Langosta
+Guardabr. de Rey Langosta
+Avambr. de Barroth
+Guardabr. de Barroth
+Avambr. de Lingote
+Guardabr. de Lingote
+Avambr. de Basarios
+Guardabr. de Basarios
+Avambr. de Guardian
+Guardabr. de Guardian
+Guantes de Ayudante
+Magas de ayudante
+Ristre de Aelucanth
+Manica de Aelucanth
+Ristre de Rhopessa
+Manica de Rhopessa
+enredo Mosgharl
+Zartillo Mosgharl 
+Avambr. De Nerusukyura
+Guardabr. de Nerusukyura
+Avambr. de Khezu
+Guardabr. de Khezu
+Avambr. de Rathian
+Guardabr. de Rathian
+Avambr. de artesanas
+Guardabr. de artesanas
+Avambr. de Zaboazagiru
+Guardabr. de Zaboazagiru
+Avambr. de Garara
+Guardabr. de Garara
+Avambr. de Plesioth
+Guardabr. de Plesioth
+Avambr. Bardo Gremio
+Manga Bardo Gremio
+Guantes de Escolar
+Magas de Escolar
+Avambr. de Zinogre
+Guardabr. de Zinogre
+Avambr. de Generu
+Guardabr. de Generu
+Brazales de Nibelsnarf
+Guardabr. de Nibelsnarf
+Avambr. De Ceanataur 
+Guardabr. de Ceanataur 
+Avambr. de Gao
+Guardabr. de Gao
+Avambr. de Tigrex
+Guardabr. de Tigrex
+Brazales de Brachydios
+Guardabr. de Brachydios
+Brazales de Nargacuga
+Guardabr. de Nargacuga
+Avambr. De Gravios
+Guardabr. De Gravios 
+Avambr. de Rathalos
+Guardabr. de Rathalos
+Avambr. De Lavasioth 
+Guardabr. De Lavasioth
+Avambr. de Diablos
+Guardabr. de Diablos
+Avambr. de Garuga
+Guardabr. de Garuga
+Avambr. de Uragaan
+Guardabr. de Uragaan
+Brazales de Duramboros
+Guardabr. de Duramboros
+Avambr. De Arco
+Guardabr. De Arco
+Avambr. De Philia
+Guardabr. De Philia
+Kore Zannyo
+Kote Shinonome 
+Kote Tokiwa 
+Kote Yachiyo 
+Prot. Brazos Kirin
+Guantes de Kirin
+Kote Akatsuki 
+Kote Akebono 
+Kote Rin 
+Kote Tsuya 
+Avambr. Estrella Azul
+Magas Estrella Azul
+Avambr. De Valiente S
+Guardabr. De Valiente S
+Avambr. de Cuero S
+Guardabr. de Cuero S
+Brazales de Malla S
+Guardabr. De Malla S
+Avambr. de Cazador S
+Guardabr. de Cazador S
+Avambr. de Hueso S
+Guardabr. de Hueso S
+Avambr. de aleacion S
+Guardabr. de Aleacion S
+Avambr. De Kunchuu
+Guardabr. De Kunchuu S
+Brazales de Rhenoplos S
+Guardabr. de Rhenoplos S
+Guantes de Bnahabra S
+Magas de Bnahabra S
+Avambr. de Jaggi S
+Guardabr. de Jaggi S
+Avambr. de Genprey Ｓ
+Guardabr. de Genprey Ｓ
+Avambr. De Volvidon 
+Guardabr. De Volvidon 
+Avambr. de Qurupeco
+Guardabr. de Qurupeco
+Avambr. de Conga Ｓ
+Guardabr. de Conga Ｓ
+Avambr. de Conga Ｕ
+Guardabr. de Conga Ｕ
+Avambr. de Velociprey Ｓ
+Guardabr. de Velociprey Ｓ
+Avambr. De Cephalos
+Guardabr. De Cephalos
+Avambr. De Hermitaur
+Guardabr. De Hermitaur
+Guantes de Remobra S
+Manos de Remobra S
+Guantes de Ioprey
+Manos de Ioprey
+Avambr. de Kecha Ｓ
+Guardabr. de Kecha Ｓ
+Avambr. de Kut-Ku Ｓ
+Guardabr. de Kut-Ku Ｓ
+Avambr. de Kut-Ku Ｕ
+Guardabr. de Kut-Ku Ｕ
+Ristre de Obituario
+Braso de Obtuario
+Ristre de Mariposa
+Braso de Mariposa
+Avambr. de Ioprey Ｓ
+Guardabr. de Ioprey Ｓ
+Avambr. de Dober
+Guardabr. de Dober
+Avambr. de Lagombi S
+Guardabr. de Lagombi S
+Avambr. De Halcon
+Guardabr. De Halcon
+Avambr. De Ecole
+Guardabr. De Ecole
+Avambr. de Gypceros Ｓ
+Guardabr. de Gypceros Ｓ
+Avambr. de Gypceros Ｕ
+Guardabr. de Gypceros Ｕ
+Avambr. de Volvidon
+Guardabr. de Volvidon
+Avambr. de Tetsukabra  Ｓ
+Guardabr. de Tetsukabra  Ｓ
+Avambr. De Nerusukyura S
+Guardabr. De Nerusukyura S
+Avambr. de Khezu Ｓ
+Guardabr. de Khezu Ｓ
+Avambr. de Khezu Ｕ
+Guardabr. de Khezu Ｕ
+Avambr. de Rathian S
+Guardabr. de Rathian S
+Avambr. De Rathian Rosa
+Guardabr. de Rathian Rosa
+Brazales de Luna Dorada
+Guardabr. de Luna Dorada
+Avambr. De Rathian EX 
+Guardabr. De Rathian EX 
+Avambr. de Basarios Ｓ
+Guardabr. de Basarios Ｓ
+Avambr. de Basarios Ｕ
+Guardabr. de Basarios Ｕ
+Avambr. de Artesano Ｓ
+Guardabr. de Artesano Ｓ
+Avambr. de Zinogre Ｓ
+Guardabr. de Zinogre Ｓ
+Avambr. de Zinogre Ｕ
+Guardabr. de Zinogre Ｕ
+Avambr. de Gao Ｓ
+Guardabr. de Gao Ｓ
+Avambr. de Gobul
+Guardabr. de Gobul
+Guantes de Caballero de Gremio
+Magas de Caballero Gremio
+Guantes de Mucama
+Magas de Mucama
+Gaunteleta de Explorador
+Guantelete de Arquero
+Avambr. de Generu Ｓ
+Guardabr. de Generu Ｓ
+Avambr. de Zaboazagiru Ｓ
+Guardabr. de Zaboazagiru Ｓ
+Avambr. de Garara Ｓ
+Guardabr. de Garara Ｓ
+Avambr. de Tigrex Ｓ
+Guardabr. de Tigrex Ｓ
+Avambr. de Tigrex Ｕ
+Guardabr. de Tigrex Ｕ
+Avambr. De X-Zero
+Guardabr. De X-Zero
+Avambr. de Tigrex EX
+Guardabr. de Tigrex EX
+Avambr. De Blango 
+Guardabr. De Blango
+Avambr. De Cinturon Negro
+Guardabr. De Cinturon Negro
+Avambr. de Rathalos S
+Guardabr. de Rathalos S
+Avambr. de alma de Rathalos
+Guardabr. de alma de Rathalos
+Brazales de Sol Plateado
+Guardabr. de Sol Plateado
+Avambr. De Rathalos EX 
+Guardabr. De Rathalos EX 
+Avambr. De Gravios S
+Guardabr. De Gravios S
+Avambr. De Gravios U
+Guardabr. De Gravios U
+Avambr. de Barioth
+Guardabr. de Barioth
+Avambr. de Brachydios Ｓ
+Guardabr. de Brachydios Ｓ
+Avambr. de Agnaktor
+Guardabr. de Agnaktor
+Avambr. de Garuga Ｓ
+Guardabr. de Garuga Ｓ
+Brazales de Lagiacrus
+Guardabr. de Lagiacrus
+Prot. Brazos Kirin S
+Guantes de Kirin S
+Avambr. De Kirin U
+Guantesde Kirin U
+Kote Yukumo (Cielo)
+Kote Yukumo (Tierra)
+Guantes de Marinero
+Magas de Marinero
+Avambr. de Vangis
+Guardabr. de Vangis
+Avambr. De Codicia
+Guardabr. De Codicia
+Zannyo Ha [Guantes]
+Shinonome Ha [Guantes]
+Tokiwa Ha [Guantes]
+Yachiyo Ha [Guante]
+Yamato [Guantes]
+Mutsu [Guantes]
+Hinata [Guantes]
+Amagi [Guantes]
+Avambr. De Arco S
+Guardabr. deArco S
+Avambr. De Philia S
+Guardabr. De Philia S
+Kote Dorado
+Kote de Maestro Marioneta
+Kote Furia
+Kote Latido Cecorazon
+Garra Akantor Oscuro
+Guanteleta Akantor Oscuro
+Garra Ukanlos Oscuro
+Guanteleta Ukanlos Oscuro
+Avambr. de Kaiser
+Guardabr. de Kaiser
+Avambr. de Kaiser EX
+Guardabr. de Kaiser EX
+Avambr. de Emperatriz
+Guardabr. de Emperatriz
+Apretón Kushala
+Abrazo Kushala
+Apretón Kushala EX
+Abrazo Kushala EX
+Yasha [Manos]
+Shura [Manos]
+Avambr. de Rebelion
+Guardabr. de Motin
+Midzuha [Mangas]
+Toyotama [Mangas]
+Kote Shinobi (Cielo)
+Kote Shinobi (Tierra)
+Kote Kongo 
+Kote Fudou 
+Garra de Dragon
+Puño de Dragon
+Avambr. de Helios
+Guardabr. de Helios
+Avambr. de Selene
+Guardabr. de Selene
+Brazos Escadora
+Arma Escadora
+Bracelete de Chakra
+Pulsera de GranMaestro
+Avambr. De Kirin EX U
+Guantes de Kirin EX U
+Guantes Capitan J 
+Magas Capitan J 
+Avambr. de Lingote EX
+Guardabr. de Lingote EX
+Guantes Leyenda J
+Magas Leyenda J
+Reloj UNIQLO
+Reloj UNIQLO
+Avambr. Estrella Suerte
+Guardabr. Estrella Suerte
+Avambr. De Zodiaco
+Guardabr. De Zodiaco
+Avambr. De Valiente
+Guantes de Valiente
+Avambr. de Artesano EX
+Guardabr. de Artesano EX
+Avambr. De Gao EX
+Guardabr. de Gao EX
+Avambr. De Rebelion EX
+Guardabr. de Motin EX
+Garra de Fatalis Carmesi
+Puño de Fatalis Carmesi

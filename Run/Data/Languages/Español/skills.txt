@@ -1,0 +1,388 @@
+﻿Veneno
+Paralizis
+Sueño
+Aturdimiento
+Barro/Nieve
+Def. Solida
+Biologia
+Ataque
+Defenza
+Salud
+Veloc. Recuperación
+Protección
+Envainar
+Carga Rapida
+Experto
+Golpe
+Destructor
+KO
+Agotar
+Constitucion
+Oido
+Res. Viento
+Res. Temblor
+Res. Calor
+Res. Frio
+Resistencia
+Recup. Resistencia
+Evasión
+Evasion Aum.
+Sentido
+Guardia
+Guardia Aumentada
+Estado
+Elemento
+Ataque Fuego
+Ataque Agua
+Ataque Trueno
+Ataque Hielo
+Ataque Dragón
+Res. Fuego
+Res. Agua
+Res. Trueno
+Res. Hielo
+Res. Dragón
+Afilado
+Artesano
+Afilador
+Desenv. Castig.
+Desenv. Crit.
+Esgrima
+Vel. Recarga
+Carga
+Fuego Rapido
+Retroceso
+Presición
+Disp. Normal Aum.
+Disp. Perf. Aum.
+Disp. Perd. Aum.
+Disp. Normal +
+Disp. Perf. +
+Disp. Perd. +
+Disp. Explos. +
+Disp. Grupo +
+Disp. Cort. +
+Disp. Blast +
+Disp. Veneno +
+Disp. Paral. +
+Disp. Sueño +
+Rev. Poder +
+Rev. Rango +
+Rev. Fatiga +
+Rev. Blast +
+Maestro
+Artilleria
+Aum. Bombas
+Niv. Recuperación
+Area Amplia
+Duración
+Hambre
+Glotoneria
+Comer
+Carnivoro
+Éxito Combinacion
+Combinacion +
+Recogida
+Recog. Rapida
+Capricho
+Miel
+Amuletos
+Destino
+Carveo
+Tranquilzador
+Percepción
+Psiquico
+Transportador
+Cazador
+antirrobo
+Trampa Rapida
+Aura Flama
+Potencial
+Sobreviviente
+Seriedad
+Espititu
+Intocable
+Elemento Liberado
+Agallas
+Batuta Otomo
+Orden de Mando
+Autoguardia
+Res. Plaga
+Res. Estado
+Furia
+Filo Maestro
+Mano Firme
+Inquebrantable
+Mente
+Defenza Firme
+Codicia
+Res. Locura
+Ataque Preciso
+Comando Otomo
+Jinete
+Artes Marciales
+Acrobata
+Escudero
+Delicadeza
+Colec. Amuletos
+Amplificador
+Torso Aumentado
+
+Veneno Anulado
+Veneno Doblado
+Paralisis Negada
+Paralisis Doblada
+Sueño Anulado
+Sueño Doblado
+Aturdim. a Mitad
+Aturdim. Negado
+Aturdim. Doblado
+Barro/Nieve Anulado
+Piel de Hierro
+Bio Estudiante
+Bio Maestro
+Ataque Aum. (Bajo)
+Ataque Aum. (Medio)
+Ataque Aum. (Alto)
+Ataque Aum. (Ultra)
+Ataque Dismin. (Bajo)
+Ataque Dismin. (Medio)
+Ataque Dismin. (Alto)
+Defensa Aum. (Bajo)
+Defensa Aum. (Medio)
+Defensa Aum. (Alto)
+Defensa Aum. (Ultra)
+Defensa Dismin. (Bajo)
+Defensa Dismin. (Medio)
+Defensa Dismin. (Alto)
+Salud +20
+Salud +50
+Salud -10
+Salud -30
+Vel. Recup +1
+Vel. Recup +2
+Vel. Recup -1
+Vel. Recup -2
+Proteccion Divina
+Proteccion Demoniaca
+Vaina Rápida
+Concentación
+Distracción
+Ojo Critico +1
+Ojo Critico +2
+Ojo Critico +3
+Ojo Critico Maestro
+Ojo Critico -1
+Ojo Critico -2
+Ojo Critico -3
+Aguijón
+Destructor
+Rey del KO
+Robarresistencia
+Constitución +1
+Constitución +2
+Constitución -1
+Constitución -2
+Tapon de Oido
+Tapon de Oido Alta Cal.
+Res. Viento +1
+Res. Viento +2
+Res. Temblor
+Anula el calor
+Aumentar calor
+Anula el Frío
+Aumento de Frío
+Corredor +1
+Corredor -1
+Resis. Recup +1
+Resis. Recup -1
+Evasión +1
+Evasión +2
+Evasión +3
+Evasión -1
+Dist. Evasión
+Sigilio
+Provocación
+Guardia +1
+Guardia +2
+Guardia -1
+Guardia Aumentada
+Estado Anorm. +1
+Estado Anorm. +2
+Estado Anorm. Dism.
+Elemental +1
+Elemental -1
+Ataque fuego +1
+Ataque fuego +2
+Ataque fuego +3
+Ataque Fuego Dism.
+Ataque Agua +1
+Ataque Agua +2
+Ataque Agua +3
+Ataque Agua Dism.
+Ataque Trueno +1
+Ataque Trueno +2
+Ataque Trueno +3
+Ataque Trueno Dism.
+Ataque Hielo +1
+Ataque Hielo +2
+Ataque Hielo +3
+Ataque Hielo Dism.
+Ataque Dragón +1
+Ataque Dragón +2
+Ataque Dragón +3
+Ataque Dragón Dism.
+Res.fuego +15
+Res.fuego +20
+Res. Fuego -20
+Res. Agua +15
+Res. Agua +20
+Res. Agua -20
+Res. Trueno +15
+Res. Trueno +20
+Res. Trueno -20
+Res. Hielo +15
+Res. Hielo +20
+Res. Hielo -20
+Res. Dragón +15
+Res. Dragón +20
+Res. Dragón -20
+Espada Afilada
+Espada Desafilada
+Afilado +1
+Afilado Rápido
+Afilado Lento
+Desenv. Castigador
+Desenv. Critico
+Ojo Critico
+Vel. Recarga +1
+Vel. Recarga +2
+Vel. Recarga +3
+Vel. Recarga -1
+Vel. Recarga -2
+Vel. Recarga -3
+Carga +
+Disparo bonus
+Retroceso +1
+Retroceso +2
+Retroceso +3
+Retroceso -1
+Retroceso -2
+Retroceso -3
+Precisión +1
+Precisión +2
+Precisión -1
+Precisión -2
+Disp. Normal/Rapido +
+Disp. Perfor. +
+Disp. Perd./Abanico+
+Usa normal
+Usa perfor. Nv1
+Usa perforador
+Usa perdi. Nv1
+Usa perdigón
+Usa explos. Nv1
+Usa explosivo
+Usa grupo Nv1
+Usa grupo
+Usa cortador
+Usa Blast
+Rev. Veneno +
+Rev. Paralizis +
+Rev. Sueño +
+Rev. Poder +
+Rev. Alcance +
+Rev. Fatiga +
+Rev. Blast +
+Flautista
+Artilleria +1
+Artilleria +2
+Maestro Artillero
+Bombardero
+Niv. Recuperac. +1
+Niv. Recuperac. -1
+Area Amplia +1
+Area Amplia +2
+Duración +1
+Duración -1
+Hambre Negada
+Hambre a Mitad.
+Hambre Aument.
+Hambre Doblada
+Glotón
+Carroñero
+Consumir +1
+Consumir +2
+Consumir -1
+Carnívoro
+Combinación +20%
+Combinación +45%
+Combinación -10%
+Combinación -20%
+Combinación +
+Recogida +1
+Recogida +2
+Maestro en Recogida
+Recogida -1
+Veloc. Recogida
+Capricho Espiritu
+Capricho Divino
+Capricho  Espectro
+Capricho Demoniaco
+Cazamiel
+Buscador de Amuletos
+Cazador Amuletos
+Maestro de Amuletos
+Buena Suerte
+Gran Suerte
+Ultra Suerte
+Mala Suerte
+Suerte Horrible
+Carveador Pro.
+Carveador Experto
+Carveador Maestro.
+Novato en Captura
+Experto en Captura
+Maestro en Captura
+Gurú de Captura
+Detección
+Autoseguimiento
+Exp. Mochilero
+Soldado
+Antirrobo
+Trampero
+Aura de Llama
+Adrenalina +1
+Adrenalina +2
+Agobiado
+Fortalecer
+Poder oculto +1
+Poder oculto +2
+Espíritu +1
+Espíritu +2
+Rendimiento Maximo
+Despertar
+Agallas
+Carrera Felyne
+Animo Felyne
+Autoguardia
+Antiplagas
+Bienestar
+Furia Despertada
+Hoja Afilada
+Bala de Plata
+Invencible
+Sinergia
+Inexpugnable
+Ricachon
+Res. Infeccion
+Despiadado
+Comandante Felyne
+Jinete Maestro
+Jinete Mediocre
+Hab. Castigadora
+Acrobata
+Escudo Alzado
+Bailarin
+Maniaco de Amuletos
+Amplificacion
